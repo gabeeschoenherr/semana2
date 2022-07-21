@@ -1,9 +1,9 @@
 @font-face {
     font-family: cream_cake;
-    src: url(/font/cream_cake.OTF);
+    src: url(font/cream_cake.OTF);
 }
 body{
-    background-image: url("/img/pattern.jpg");
+    background-image: url("img/pattern.jpg");
     font-family: Arial, Helvetica, sans-serif;
     left: 0;
     right: 0;
